@@ -16,8 +16,4 @@ You’re an analyst for an existing company, Instacart, an online grocery store 
 
 # Tool
 * Excel
-* Panda
-* Numpy
-* Seaborn
-* Matplotlib
-* Scipy
+* Python (Panda, Numpy, Seaborn, Matplotlib, Scipy)
