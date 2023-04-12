@@ -20,4 +20,4 @@ You’re an analyst for an existing company, Instacart, an online grocery store 
 * Numpy
 * Seaborn
 * Matplotlib
-*Scipy
+* Scipy
