@@ -14,6 +14,6 @@ Instacart operates through an app and already has very good sales, but they want
 * Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 * The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ.
 
-# Tool
+# Tools
 * Excel
 * Python (Anaconda, Jupyter, Pandas, NumPy, Seaborn, Matplotlib, Scipy)
