@@ -16,4 +16,5 @@ Instacart operates through an app and already has very good sales, but they want
 
 # Tools
 * Excel
-* Python (Anaconda, Jupyter, Pandas, NumPy, Seaborn, Matplotlib and SciPy)
+* Jupyter
+* Python (Anaconda, Pandas, NumPy, Seaborn, Matplotlib and SciPy)
